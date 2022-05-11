@@ -1,15 +1,15 @@
-### Olá! Eu sou o Jonathan 👋
+## Olá! Eu sou o Jonathan, Estudante de Ciências da Computação e tecnologia! 👋
 
 - 🔭 Trabalho com manutenção de notebooks e computadores
-- 🌱 Estudo Ciências da Computação - 3° Período
-- 🌱 Estudo Desenvolvimento Back-End
+- 🌱 Estudo o 3° Período de Ciências da Computação
+- 🌱 Estou estudando Desenvolvimento Back-End
 
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/JotaRodrigues">
-  <img height="245em" src="https://github-readme-stats.vercel.app/api?username=JotaRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaRodrigues&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaRodrigues&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jota-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -25,6 +25,8 @@
   
 <div>
     <a href = "mailto:jonathanmoraisrodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/jonathanmoraisrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
     
 ##      
       
