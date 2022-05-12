@@ -6,7 +6,7 @@
 
 ##
 
-<div align="center">
+<div align="inline-block">
   <a href="https://github.com/JotaRodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaRodrigues&layout=compact&langs_count=16&theme=tokyonight"/>
