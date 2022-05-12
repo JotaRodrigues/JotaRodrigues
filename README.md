@@ -15,6 +15,7 @@
   <img align="center" alt="Jota-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Jota-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Jota-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="right" alt="Jota-Avatar" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/Cdb_UtiJ9yx/?utm_source=ig_web_copy_link" />
   
   <!--
   <img align="center" alt="Jota-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
