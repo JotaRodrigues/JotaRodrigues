@@ -12,10 +12,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaRodrigues&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jota-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Jota-HTML5" height="40" width="50" style="transition: 1% 0.2s;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Jota-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Jota-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Jota-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Jota-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="right" alt="Jota-Avatar" height="150" style="border-radius:50px;" src="https://scontent-gru1-1.cdninstagram.com/v/t51.2885-15/280513417_579049300310605_4270201059291372128_n.jpg?stp=dst-jpg_e15_s480x480&_nc_ht=scontent-gru1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=RgZRM0nb59QAX8wvu0Z&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjgzNjY4MTY5NDE0MTQ3MjM5Ng%3D%3D.2-ccb7-4&oh=00_AT9L-n3ZKP-X0KvadFIxxWjqQp_jeMO2BFtHAsmh0jm-dQ&oe=62837360&_nc_sid=30a2ef" />
   
   <!--
