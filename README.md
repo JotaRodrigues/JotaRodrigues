@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Jota-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Jota-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="Jota-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Jota-JavaScript" height="40" width="50" style="border-radius: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Jota-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="right" alt="Jota-Avatar" height="150" style="border-radius:50px;" src="./img/Avatar-Jota.png" />
   
