@@ -7,10 +7,10 @@
 ##
 
 <!--Status e usos de programação-->
-<div align="inline-block" >
+<div max-width="100%" align="inline-block" >
   <a href="https://github.com/JotaRodrigues">
-  <img width="49.9%" height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="49.9%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaRodrigues&layout=compact&langs_count=16&theme=tokyonight" />
+  <img width="49.6%" height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="49.6%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaRodrigues&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
 <!--Icones de desenvolvimentos-->
