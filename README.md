@@ -9,8 +9,8 @@
 <!--Status e usos de programação-->
 <div align="inline-block" >
   <a href="https://github.com/JotaRodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width: 49.5%; />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaRodrigues&layout=compact&langs_count=16&theme=tokyonight" width: 49.5%;/>
+  <img width="49.9%" height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img width="49.9%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaRodrigues&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
 <!--Icones de desenvolvimentos-->
