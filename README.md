@@ -18,8 +18,8 @@
   <img align="center" alt="Jota-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Jota-CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Jota-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Jota-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Jota-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Jota-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img class="avatar" align="right" alt="Jota-Avatar" height="120" src="./img/Avatar-Jota.png" />
   
   ##
