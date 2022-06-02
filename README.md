@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com manutenção de notebooks e computadores
 - 🌱 Estudo o 3° Período de Ciências da Computação
-- 🌱 Estou estudando Desenvolvimento Back-End
+- 🌱 Estou estudando Desenvolvimento Web
 
 ##
 
