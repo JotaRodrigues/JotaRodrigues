@@ -7,12 +7,17 @@
 ##
 
 <!--Status e usos de programação-->
-<div max-width="100%" justify-content="space-between" align="inline-block" >
+<div max-width="100%" align="center">
+  <div justify-content="space-between" align="inline-block" >
   <a href="https://github.com/JotaRodrigues">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JotaRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaRodrigues&layout=compact&langs_count=16&theme=tokyonight" />
-</div>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaRodrigues&layout=compact&langs_count=16&theme=tokyonight" /></div>
 
+  <div justify-content="space-between" align="inline-block">
+  <p><img height="286em" src="https://github-readme-streak-stats.herokuapp.com/?user=JotaRodrigues&layout=compact&langs_count=16&theme=tokyonight" alt="JotaRodrigues" /></p>
+    </div>
+</div>
+  
 <!--Icones de desenvolvimentos-->
 <div style="display: inline_block"><br>
   <img align="center" alt="Jota-HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
